@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-- 📫 How to reach me: [Linkedin - Shalqarov](https://www.linkedin.com/in/shalqarov/)
+- 📫 How to reach me: [![telegram: shalqarov](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2FTemirlanw)](https://t.me/Temirlanw)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalqarov)](https://github.com/anuraghazra/github-readme-stats)
