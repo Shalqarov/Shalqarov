@@ -5,7 +5,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalqarov)](https://github.com/anuraghazra/github-readme-stats)
-wikimedia.org/wikipedia/commons/archive/0/05/20191207182211%21Go_Logo_Blue.svg)" style="padding-right:10px;" />]
+
 <!--
 **Shalqarov/Shalqarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
